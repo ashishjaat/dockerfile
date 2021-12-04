@@ -1,6 +1,7 @@
 To build an image with docker:
 
 cd createimage
+
 docker build -t="createimage" .
 
 Then to run that image and attach to it at the same time:
